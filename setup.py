@@ -9,9 +9,9 @@ from changemakers import __version__ as version
 setup(
 	name="changemakers",
 	version=version,
-	description="APF NGO Core App",
-	author="hussain@frappe.io",
-	author_email="hussain@frappe.io",
+	description="Opta Change Makers",
+	author="Manakhly@erp-developers.com",
+	author_email="Manakhly@erp-developers.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
